@@ -1,7 +1,17 @@
-h1 {
-    font-size: 40px;
+body {
+    background-color: #395C6B;
+    font-family: 'Roboto', sans-serif;
 }
 
-p {
-    font-size: 20px;
+.container-fluid {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
+}
+
+.btn {
+    background-color: aquamarine;
+    text-align: center;
+    display: inline-block;
 }
